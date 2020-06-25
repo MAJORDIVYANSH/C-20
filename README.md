@@ -1,2 +1,2 @@
-# C-20
-I created an algorithm for collision
+# p5.play-boilerplate
+Boiler plate for p5.play
